@@ -4,7 +4,6 @@ Quick and dirty project for comfortably setting up a single-app kiosk user on wi
 
 ## Usage
 
-  Usage:
     Imprison.exe UserName /pw:password AppPath
 
 ## How it works
